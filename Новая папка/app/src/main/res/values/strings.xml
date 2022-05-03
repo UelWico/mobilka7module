@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hitsIcon">HITS</string>
+    <string name="minimum">Буквально минимум</string>
+    <string name="logic">Я умею в логику</string>
+    <string name="sort">Сортировка пузырьком</string>
+</resources>
